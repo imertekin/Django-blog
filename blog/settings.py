@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'user',
     'crispy_forms',
     'ckeditor',
-    'django_cleanup.apps.CleanupConfig'
+    'django_cleanup.apps.CleanupConfig',
+    'whitenoise.runserver_nostatic'
 ]
 
 MIDDLEWARE = [
