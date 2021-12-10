@@ -1,6 +1,6 @@
 asgiref==3.4.1
 dj-database-url==0.5.0
-Django==3.1.7
+Django>=3.1.7
 django-ckeditor==6.0.0
 django-cleanup==5.1.0
 django-crispy-forms==1.11.2
